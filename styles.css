@@ -2,13 +2,22 @@ body {
     margin: 0;
     background-color: #0a0a23;
     color: #fff;
+    font-family: cursive;
 }
 .header {
     text-align: center;
     text-transform: uppercase;
-    margin: 0 0 10px 0;
-    padding: 32px;
     border-bottom: 4px solid #fdb347;
+}
+.header h1{
+    margin: 5px auto;
+    padding: 0;
+    font-size: 100px;
+}
+.header h2 {
+    margin: 0 0 10px 0;
+    padding: 0;
+    font-size: 10px;
 }
 
 .gallery {
