@@ -9,7 +9,7 @@ const characters = [
   ];
 */
 
-console.log(characters);
+// console.log(characters);
 
 const gallery = document.querySelector(".gallery");
 
@@ -22,7 +22,11 @@ function generateCardHTML(character) {
   `;
 }
 
-characters.forEach(character => {
-  const cardHTML = generateCardHTML(character);
-  gallery.innerHTML += cardHTML;
-});
+fetch('data.json').then(response => response.json()).then(data => {
+  const characters = data;
+  characters.forEach(character => {
+    const cardHTML = generateCardHTML(character);
+    gallery.innerHTML += cardHTML;
+  })
+}).catch(error => console.error(error));
+
