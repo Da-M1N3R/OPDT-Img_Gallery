@@ -1,45 +1,5 @@
 [
     {
-      "name": "Judge",
-      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7b/Vinsmoke_Judge_Portrait.png/"
-    },
-    {
-      "name": "Reiju",
-      "image": "https://static.wikia.nocookie.net/onepiece/images/7/74/Vinsmoke_Reiju_Portrait.png/"
-    },
-    {
-      "name": "Ichiji",
-      "image": "https://static.wikia.nocookie.net/onepiece/images/7/73/Vinsmoke_Ichiji_Portrait.png/"
-    },
-    {
-      "name": "Niji",
-      "image": "https://static.wikia.nocookie.net/onepiece/images/5/52/Vinsmoke_Niji_Portrait.png/"
-    },
-    {
-      "name": "Yonji",
-      "image": "https://static.wikia.nocookie.net/onepiece/images/e/ec/Vinsmoke_Yonji_Portrait.png/"
-    },
-    {
-      "name": "Crocodile",
-      "image": "https://static.wikia.nocookie.net/onepiece/images/3/3c/Crocodile_Portrait.png/"
-    },
-    {
-      "name": "Dracule Mihawk",
-      "image": "https://static.wikia.nocookie.net/onepiece/images/8/85/Dracule_Mihawk_Portrait.png/"
-    },
-    {
-      "name": "Buggy",
-      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6e/Buggy_Portrait.png/"
-    },
-    {
-      "name": "Dorry",
-      "image": "https://static.wikia.nocookie.net/onepiece/images/3/39/Dorry_Portrait.png/"
-    },
-    {
-      "name": "Brogy",
-      "image": "https://static.wikia.nocookie.net/onepiece/images/9/90/Brogy_Portrait.png/"
-    },
-    {
       "name": "Luffy",
       "image": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Monkey_D._Luffy_Portrait.png/"
     },
@@ -82,6 +42,66 @@
     {
       "name": "Vivi",
       "image": "https://static.wikia.nocookie.net/onepiece/images/3/39/Nefertari_Vivi_Portrait.png/"
+    },
+    {
+      "name": "Saturn",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/49/Jaygarcia_Saturn_Portrait.png/"
+    },
+    {
+      "name": "Mars",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Marcus_Mars_Portrait.png/"
+    },
+    {
+      "name": "Warcury",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/54/Topman_Warcury_Portrait.png/"
+    },
+    {
+      "name": "V. Nusjuro",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6c/Ethanbaron_V._Nusjuro_Portrait.png/"
+    },
+    {
+      "name": "Ju Peter",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/77/Shepherd_Ju_Peter_Portrait.png/"
+    },
+    {
+      "name": "Judge",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7b/Vinsmoke_Judge_Portrait.png/"
+    },
+    {
+      "name": "Reiju",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/74/Vinsmoke_Reiju_Portrait.png/"
+    },
+    {
+      "name": "Ichiji",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/73/Vinsmoke_Ichiji_Portrait.png/"
+    },
+    {
+      "name": "Niji",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/52/Vinsmoke_Niji_Portrait.png/"
+    },
+    {
+      "name": "Yonji",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/ec/Vinsmoke_Yonji_Portrait.png/"
+    },
+    {
+      "name": "Crocodile",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/3c/Crocodile_Portrait.png/"
+    },
+    {
+      "name": "Mihawk",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/85/Dracule_Mihawk_Portrait.png/"
+    },
+    {
+      "name": "Buggy",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6e/Buggy_Portrait.png/"
+    },
+    {
+      "name": "Dorry",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/39/Dorry_Portrait.png/"
+    },
+    {
+      "name": "Brogy",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/90/Brogy_Portrait.png/"
     }
   ]
   
