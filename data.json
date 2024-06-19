@@ -39,10 +39,12 @@
       "name": "Jinbe",
       "image": "https://static.wikia.nocookie.net/onepiece/images/f/f7/Jinbe_Portrait.png/"
     },
+
     {
       "name": "Vivi",
       "image": "https://static.wikia.nocookie.net/onepiece/images/3/39/Nefertari_Vivi_Portrait.png/"
     },
+
     {
       "name": "Saturn",
       "image": "https://static.wikia.nocookie.net/onepiece/images/4/49/Jaygarcia_Saturn_Portrait.png/"
@@ -63,6 +65,7 @@
       "name": "Ju Peter",
       "image": "https://static.wikia.nocookie.net/onepiece/images/7/77/Shepherd_Ju_Peter_Portrait.png/"
     },
+
     {
       "name": "Judge",
       "image": "https://static.wikia.nocookie.net/onepiece/images/7/7b/Vinsmoke_Judge_Portrait.png/"
@@ -83,6 +86,7 @@
       "name": "Yonji",
       "image": "https://static.wikia.nocookie.net/onepiece/images/e/ec/Vinsmoke_Yonji_Portrait.png/"
     },
+
     {
       "name": "Crocodile",
       "image": "https://static.wikia.nocookie.net/onepiece/images/3/3c/Crocodile_Portrait.png/"
@@ -95,6 +99,31 @@
       "name": "Buggy",
       "image": "https://static.wikia.nocookie.net/onepiece/images/6/6e/Buggy_Portrait.png/"
     },
+    {
+      "name": "Daz Bonez",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/72/Daz_Bonez_Portrait.png/"
+    },
+    {
+      "name": "Galdino",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/75/Galdino_Portrait.png/"
+    },
+    {
+      "name": "Alvida",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/95/Alvida_Portrait.png/"
+    },
+    {
+      "name": "Mohji",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b5/Mohji_Portrait.png/"
+    },
+    {
+      "name": "Richie",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Richie_Portrait.png/"
+    },
+    {
+      "name": "Cabaji",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Cabaji_Portrait.png/"
+    },
+
     {
       "name": "Dorry",
       "image": "https://static.wikia.nocookie.net/onepiece/images/3/39/Dorry_Portrait.png/"
