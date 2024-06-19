@@ -41,6 +41,44 @@
     },
 
     {
+      "name": "Kuro",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/16/Kuro_Portrait.png/"
+    },
+    {
+      "name": "Jango",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Jango_Pirate_Portrait.png/"
+    },
+    {
+      "name": "Sham",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/55/Sham_Portrait.png/"
+    },
+    {
+      "name": "Buchi",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/0a/Buchi_Portrait.png/"
+    },
+
+    {
+      "name": "Kaya",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/0c/Kaya_Portrait.png/"
+    },
+    {
+      "name": "Merry",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/52/Merry_Portrait.png/"
+    },
+    {
+      "name": "Ninjin",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Ninjin_Portrait.png/"
+    },
+    {
+      "name": "Piiman",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Piiman_Portrait.png/"
+    },
+    {
+      "name": "Tamanegi",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Tamanegi_Portrait.png/"
+    },
+
+    {
       "name": "Vivi",
       "image": "https://static.wikia.nocookie.net/onepiece/images/3/39/Nefertari_Vivi_Portrait.png/"
     },
